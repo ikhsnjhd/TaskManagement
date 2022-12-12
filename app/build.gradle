@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.ikhsan.taskmanagement'
+    namespace 'com.D121171507.taskmanagement'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.ikhsan.taskmanagement"
+        applicationId "com.D121171507.taskmanagement"
         minSdk 23
         targetSdk 33
         versionCode 1
